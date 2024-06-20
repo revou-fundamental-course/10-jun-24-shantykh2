@@ -1,0 +1,39 @@
+.subject-S {
+    font-size: xx-large;
+    font-style: italic;
+    font-style: bold;
+    font-family: monospace;}
+
+    textarea {
+        resize: none;
+        border-radius: 4px;
+        background-color: #f8f8f8;
+        border: 2px solid #ccc;
+        font-family: sans-serif;
+    font-size: 16px;
+    }
+
+    button {
+        border-radius: 6px;
+    }
+    .lightpink-color{
+        background-color: lightpink;
+    }
+.lightblue-color{
+    background-color: lightblue;
+}
+.papayawhip-color{
+    background-color: papayawhip;
+}
+.background-color {
+    background-color: lavenderblush;
+}
+
+
+    .celsius-design{
+        text-align: center;}
+
+    .result-design{   
+        display: flex;
+        justify-content: space-evenly;}
+   
