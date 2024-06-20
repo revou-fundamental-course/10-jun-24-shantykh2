@@ -29,6 +29,9 @@
     background-color: lavenderblush;
 }
 
+.center-design {
+    text-align: center;
+}
 
     .celsius-design{
         text-align: center;}
@@ -36,4 +39,5 @@
     .result-design{   
         display: flex;
         justify-content: space-evenly;}
+
    
